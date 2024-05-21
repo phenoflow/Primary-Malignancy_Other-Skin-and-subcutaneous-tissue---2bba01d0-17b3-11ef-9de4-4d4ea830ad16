@@ -1,0 +1,72 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/primary-malignancy_other-skin-and-subcutaneous-tissue-basal---primary.py
+inputModule3:
+  class: File
+  path: python/primary-malignancy_other-skin-and-subcutaneous-tissue-neoplasm---primary.py
+inputModule4:
+  class: File
+  path: python/lower-primary-malignancy_other-skin-and-subcutaneous-tissue---primary.py
+inputModule5:
+  class: File
+  path: python/primary-malignancy_other-skin-and-subcutaneous-tissue-adenocarcinoma---primary.py
+inputModule6:
+  class: File
+  path: python/primary-malignancy_other-skin-and-subcutaneous-tissue-unspecified---primary.py
+inputModule7:
+  class: File
+  path: python/primary-malignancy_other-skin-and-subcutaneous-tissue-shoulder---primary.py
+inputModule8:
+  class: File
+  path: python/upper-primary-malignancy_other-skin-and-subcutaneous-tissue---primary.py
+inputModule9:
+  class: File
+  path: python/primary-malignancy_other-skin-and-subcutaneous-tissue-history---primary.py
+inputModule10:
+  class: File
+  path: python/primary-malignancy_other-skin-and-subcutaneous-tissue-scrotum---primary.py
+inputModule11:
+  class: File
+  path: python/primary-malignancy_other-skin-and-subcutaneous-tissue-canthu---primary.py
+inputModule12:
+  class: File
+  path: python/primary-malignancy_other-skin-and-subcutaneous-tissue-lesion---primary.py
+inputModule13:
+  class: File
+  path: python/squamous-primary-malignancy_other-skin-and-subcutaneous-tissue---primary.py
+inputModule14:
+  class: File
+  path: python/external-primary-malignancy_other-skin-and-subcutaneous-tissue---primary.py
+inputModule15:
+  class: File
+  path: python/primary-malignancy_other-skin-and-subcutaneous-tissue-breast---primary.py
+inputModule16:
+  class: File
+  path: python/canal-primary-malignancy_other-skin-and-subcutaneous-tissue---primary.py
+inputModule17:
+  class: File
+  path: python/primary-malignancy_other-skin-and-subcutaneous-tissue-scalp---primary.py
+inputModule18:
+  class: File
+  path: python/eyelid-primary-malignancy_other-skin-and-subcutaneous-tissue---primary.py
+inputModule19:
+  class: File
+  path: python/primary-malignancy_other-skin-and-subcutaneous-tissue---primary.py
+inputModule20:
+  class: File
+  path: python/primary-malignancy_other-skin-and-subcutaneous-tissue-ulcer---primary.py
+inputModule21:
+  class: File
+  path: python/biopsy-primary-malignancy_other-skin-and-subcutaneous-tissue---primary.py
+inputModule22:
+  class: File
+  path: python/other---primary.py
+inputModule23:
+  class: File
+  path: python/primary-malignancy_other-skin-and-subcutaneous-tissue-procedure---primary.py
+inputModule24:
+  class: File
+  path: python/output-cases.py
